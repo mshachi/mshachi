@@ -1,4 +1,10 @@
- class Program
+/* import using System;
+using System.Linq;
+using System.Collections.Generic;  para gumana */
+
+namespace ILS_COMPROG
+{
+    class Program
     {
 
         public static int cpWins { get; set; }
@@ -803,3 +809,4 @@
             while (true);
         }
     }
+}
